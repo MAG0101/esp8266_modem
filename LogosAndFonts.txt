@@ -1,0 +1,8 @@
+OLED Font from:
+	http://oleddisplay.squix.ch/
+
+Commodore logo from:
+	https://commons.wikimedia.org/wiki/File:CBM_Logo.svg
+
+Wifi-Logo from:
+	https://commons.wikimedia.org/wiki/File:WIFI_icon.svg
